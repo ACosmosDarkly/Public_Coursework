@@ -22,8 +22,8 @@ Perfect_and_Amicable - Finds perfect and amicable numbers between 2 and the user
 
 Print_A_Calendar - Prints a calendar for the given year and first day of the year. Accounts for leap years.
 
-Approximate_e - Approximates the value of e by calculating the partial sum of the infinite sum $e = \(\sum\nolimits_{n=0})^{\infty} \frac{1}{n!}$. A practice in getting our function to run with a specific time efficiency, this one should be $\Theta \(n\)$ for the eApprox function.
+Approximate_e - Approximates the value of e by calculating the partial sum of the infinite sum $e = \sum\nolimits_{n=0}^{\infty} \frac{1}{n!}$. A practice in getting our function to run with a specific time efficiency, this one should be $\Theta \(n\)$ for the eApprox function.
 
 Print_Divisors - Prints the divisors for a given number. Similar to above, this one is supposed to run in $\Theta \(\sqrt{n}\)$ time.
---------------------
+
 I have many other programs from these courses, but I thought that these were probably the best out of what I had. That's why I chose to share these, and hopefully I can add more to it as I get better.
